@@ -10,5 +10,5 @@ Run BitcoinSentiment2.ipynb, missing datasets(Bitcoin_tweets.csv) can be downloa
 ## Time Series Forcasting/exponential smoothing
 
 ## Different types of LSTM models
-Run the corresponding LSTM notebook
+Run the corresponding notebooks in the LSTM folder, RMSE plot can be made by running "plot LSTM RMSE.ipynb"
 
